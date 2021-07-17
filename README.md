@@ -9,7 +9,7 @@
 - [Author](#author)
 ## Overview
 -It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Works - Records - Feedback - Blog - Contact) 
-- Live Site URL: [Add live site URL here](https://omarfayez.github.io/01.Fokir/)
+- Live Site URL: [Fokir](https://omarfayez.github.io/01.Fokir/)
 ## Built with
 
 - HTML5
