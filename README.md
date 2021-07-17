@@ -1,4 +1,4 @@
-# Products Store - CRUD System For Products
+# Login System - Smart Login System
 
 ## Table of contents
 
@@ -12,25 +12,26 @@
 
 ### About
 
--it's a CRUD system for adding , editing and deleting products . all products informations are stored in the LocalStorage of the browser to ensure data is saved when you close your browser and open it again. Real Time Validation And Search has been used in this store.
+-it's a smart system to sign up and log in with real time validation which use loacalStorage of the browser to store accounts data and check if the user signed up before then allow to the user to go to home page.
 
 ### Screenshot
 
-![portfolio](https://im7.ezgif.com/tmp/ezgif-7-fc6ec3c14b8f.gif)
+![Login](https://im7.ezgif.com/tmp/ezgif-7-b2eb95c8103e.gif)
 
 ### Links
 
-- Live Site URL: [Products Store](https://omarfayez.github.io/05.JS-CRUD-Project/)
+- Live Site URL: [Smart Login](https://omarfayez.github.io/06.Smart-Login/)
 
 ## Built with
 
 - HTML5
 - CSS3
 - Bootstrap4
-- Js
+- JS
+- Localstorage
 - JSON
+- -Authentication
 - Real Time Validation
-- Real Time Search
 - Responsive Web Design
 
 ## Author
