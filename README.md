@@ -12,7 +12,7 @@
 
 ### About
 
--this 
+-it's a CRUD system for adding , editing and deleting products . all products informations are stored in the LocalStorage of the browser to ensure data is saved when you close your browser adnd open it again.
 
 ### Screenshot
 
@@ -28,6 +28,9 @@
 - CSS3
 - Bootstrap4
 - Js
+- JSON
+- Real Time Validation
+- Real Time Search
 - Responsive Web Design
 
 ## Author
