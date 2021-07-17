@@ -18,11 +18,11 @@
 
 ### Screenshot
 
-![hippo](https://im2.ezgif.com/tmp/ezgif-2-b650e0841977.gif)
+![portfolio](https://im2.ezgif.com/tmp/ezgif-2-f3b45a15f70f.webp)
 
 ### Links
 
-- Live Site URL: [Fokir](https://im2.ezgif.com/tmp/ezgif-2-7f132ca0fe97.gif)
+- Live Site URL: [Fokir](https://omarfayez.github.io/01.Fokir/)
 
 ## Built with
 
