@@ -1,6 +1,4 @@
-# Fokir - Developer Portfolio
-
-
+# Devfolio - Developer Portfolio
 
 ## Table of contents
 
@@ -14,7 +12,7 @@
 
 ### About
 
--It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Works - Records - Feedback - Blog - Contact).
+-It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Records - Works - Testimonial - Blog - Contact).
 
 ### Screenshot
 
@@ -22,13 +20,14 @@
 
 ### Links
 
-- Live Site URL: [Fokir](https://omarfayez.github.io/01.Fokir/)
+- Live Site URL: [Devfolio](https://omarfayez.github.io/02.Devfolio/)
 
 ## Built with
 
 - HTML5
 - CSS3
-- Flexbox
+- Bootstrap4
+- Bootstrap Grid System
 - Responsive Web Design
 
 ## Author
