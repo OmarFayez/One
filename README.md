@@ -1,4 +1,4 @@
-# Login System - Smart Login System
+# Quiz System
 
 ## Table of contents
 
@@ -12,15 +12,15 @@
 
 ### About
 
--it's a smart system to sign up and log in with real time validation which use loacalStorage of the browser to store accounts data and check if the user signed up before then allow to the user to go to home page.
+-this is a quiz system where you can select category from many categories, difficulty and number of questions but don't exceed 50 questions.Each question you solve appears if it is correct or incorrect, and in the end the total result will be shown to you.
 
 ### Screenshot
 
-![Login](https://im7.ezgif.com/tmp/ezgif-7-b2eb95c8103e.gif)
+![quiz](https://im.ezgif.com/tmp/ezgif-1-c853ad8cb30e.gif)
 
 ### Links
 
-- Live Site URL: [Smart Login](https://omarfayez.github.io/06.Smart-Login/)
+- Live Site URL: [Quiz System](https://github.com/OmarFayez/08.Quiz-System)
 
 ## Built with
 
@@ -28,10 +28,9 @@
 - CSS3
 - Bootstrap4
 - JS
-- Localstorage
-- JSON
-- Authentication
-- Real Time Validation
+- Modules
+- AJAX
+- Validation
 - Responsive Web Design
 
 ## Author
