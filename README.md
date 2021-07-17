@@ -12,7 +12,7 @@
 - Live Site URL: [Fokir](https://omarfayez.github.io/01.Fokir/)
 ## Built with
 
-![](im2.ezgif.com/tmp/ezgif-2-260b0415fc53.gif)
+[](im2.ezgif.com/tmp/ezgif-2-260b0415fc53.gif)
 - HTML5
 - CSS3
 - Flexbox
