@@ -16,7 +16,7 @@
 
 ### Screenshot
 
-![portfolio](https://im7.ezgif.com/tmp/ezgif-7-69cd9efabcb0.webp)
+![portfolio](https://im7.ezgif.com/tmp/ezgif-7-037fe42496a9.webp)
 
 ### Links
 
