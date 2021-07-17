@@ -18,7 +18,7 @@
 
 ### Screenshot
 
-![hippo](https://im2.ezgif.com/tmp/ezgif-2-4600fcc2c553.webp)
+![hippo](https://im2.ezgif.com/tmp/ezgif-2-88674c523131.gif)
 
 ### Links
 
