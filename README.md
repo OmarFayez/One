@@ -11,8 +11,7 @@
 -It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Works - Records - Feedback - Blog - Contact) 
 - Live Site URL: [Fokir](https://omarfayez.github.io/01.Fokir/)
 ## Built with
-
-[](im2.ezgif.com/tmp/ezgif-2-260b0415fc53.gif)
+![hippo](im2.ezgif.com/tmp/ezgif-2-260b0415fc53.gif)
 - HTML5
 - CSS3
 - Flexbox
