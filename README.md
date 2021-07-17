@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [Fokir](https://im2.ezgif.com/tmp/ezgif-2-d509e4db7b54.gif)
+- Live Site URL: [Fokir](https://im2.ezgif.com/tmp/ezgif-2-7f132ca0fe97.gif)
 
 ## Built with
 
