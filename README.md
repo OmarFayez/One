@@ -12,7 +12,7 @@
 
 ### About
 
--this is a quiz system where you can select category from many categories, difficulty and number of questions but don't exceed 50 questions.Each question you solve appears if it is correct or incorrect, and in the end the total result will be shown to you.
+-This is a quiz system where you can select category from many categories, difficulty and number of questions but don't exceed 50 questions.Each question you solve appears if it is correct or incorrect, and in the end the total result will be shown to you.
 
 ### Screenshot
 
