@@ -1,4 +1,4 @@
-# Devfolio - Developer Portfolio
+# Angora - Company Portfolio
 
 ## Table of contents
 
@@ -12,7 +12,7 @@
 
 ### About
 
--It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Records - Works - Testimonial - Blog - Contact).
+-It is a potofolio site for Company which consist of set of sections (Home - About - Team - Services - Blog - Contact).
 
 ### Screenshot
 
@@ -20,13 +20,15 @@
 
 ### Links
 
-- Live Site URL: [Devfolio](https://omarfayez.github.io/02.Devfolio/)
+- Live Site URL: [https://omarfayez.github.io/03.Angora/)
 
 ## Built with
 
 - HTML5
 - CSS3
 - Bootstrap4
+- Js
+- jQuery
 - Bootstrap Grid System
 - Responsive Web Design
 
