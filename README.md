@@ -20,7 +20,7 @@
 
 ### Links
 
-- Live Site URL [Angora]: [https://omarfayez.github.io/03.Angora/)
+- Live Site URL: [Angora](https://omarfayez.github.io/03.Angora/)
 
 ## Built with
 
