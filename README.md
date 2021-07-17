@@ -4,14 +4,28 @@
 
 ## Table of contents
 
-- [Overview](#Overview)
+- [Overview](#overview)
+  - [About](#About)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 ## Overview
--It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Works - Records - Feedback - Blog - Contact) 
-- Live Site URL: [Fokir](https://omarfayez.github.io/01.Fokir/)
-## Built with
+
+### About
+
+-It is a potofolio site for web developer and designer which consist of set of sections (Home - About - Services - Works - Records - Feedback - Blog - Contact).
+
+### Screenshot
+
 ![hippo](https://im2.ezgif.com/tmp/ezgif-2-260b0415fc53.gif)
+
+### Links
+
+- Live Site URL: [Fokir](https://im2.ezgif.com/tmp/ezgif-2-d509e4db7b54.gif)
+
+## Built with
+
 - HTML5
 - CSS3
 - Flexbox
