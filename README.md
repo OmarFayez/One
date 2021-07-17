@@ -30,7 +30,7 @@
 - JS
 - Localstorage
 - JSON
-- -Authentication
+- Authentication
 - Real Time Validation
 - Responsive Web Design
 
