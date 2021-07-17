@@ -1,4 +1,4 @@
-# Angora - Company Portfolio
+# Products Store - CRUD System For Products
 
 ## Table of contents
 
@@ -12,15 +12,15 @@
 
 ### About
 
--It is a potofolio site for Company which consist of set of sections (Home - About - Team - Services - Blog - Contact).
+-this 
 
 ### Screenshot
 
-![portfolio](https://im7.ezgif.com/tmp/ezgif-7-0308eaff1ad0.gif)
+![portfolio](https://im7.ezgif.com/tmp/ezgif-7-fc6ec3c14b8f.gif)
 
 ### Links
 
-- Live Site URL: [Angora](https://omarfayez.github.io/03.Angora/)
+- Live Site URL: [Products Store](https://omarfayez.github.io/05.JS-CRUD-Project/)
 
 ## Built with
 
@@ -28,8 +28,6 @@
 - CSS3
 - Bootstrap4
 - Js
-- jQuery
-- Bootstrap Grid System
 - Responsive Web Design
 
 ## Author
