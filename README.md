@@ -21,6 +21,7 @@
 ### Links
 
 - Live Site URL: [Quiz System](https://github.com/OmarFayez/08.Quiz-System)
+- Used Api: [Trivia API](https://opentdb.com/api_config.php)
 
 ## Built with
 
