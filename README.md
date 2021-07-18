@@ -18,16 +18,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### About
 
--This is a quiz system where you can select category from many categories, difficulty and number of questions but don't exceed 50 questions.Each question you solve appears if it is correct or incorrect, and in the end the total result will be shown to you.
+-This is a cinema site where you can see latest Trending Movies, Trending Tv and Trending People, also you can Open any movie or tv to see details and its similar credits or open any actor to see his details and his credits and you can go to any of his credits.You can search for any movie you want. <br>
+You must sign up then login in with valid informations to go to home page and rest pages of the site.
+
 
 ### Screenshot
 
-![quiz](https://im.ezgif.com/tmp/ezgif-1-c853ad8cb30e.gif)
+![quiz](https://im7.ezgif.com/tmp/ezgif-7-32146dc518b1.gif)
 
 ### Links
 
 - Live Site URL: [Cinema Site](https://omarfayez.github.io/11.MoviesSite/)
-- Used Api For Authentication : [Trivia API](https://opentdb.com/api_config.php)
 - Used Api For Movies : [Trivia API](https://opentdb.com/api_config.php)
 
 ## Development server
@@ -47,6 +48,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 - Angular 12
 - TS
 - Reactive Forms
+- Authentication With Real Time Validation
 - RxJS
 - ngx-pagination
 - ngx-owlcarousel
