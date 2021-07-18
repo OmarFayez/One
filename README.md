@@ -24,7 +24,7 @@ You must sign up then login in with valid informations to go to home page and re
 
 ### Screenshot
 
-![cinema](https://im7.ezgif.com/tmp/ezgif-7-32146dc518b1.gif)
+![cinema](https://im7.ezgif.com/tmp/ezgif-7-1fd41e25cecc.webp)
 
 ### Links
 
