@@ -24,11 +24,11 @@ You must sign up then login in with valid informations to go to home page and re
 
 ### Screenshot
 
-![quiz](https://im7.ezgif.com/tmp/ezgif-7-32146dc518b1.gif)
+![cinema](https://im7.ezgif.com/tmp/ezgif-7-32146dc518b1.gif)
 
 ### Links
 
-- Live Site URL: [Cinema Site](https://omarfayez.github.io/11.MoviesSite/)
+- Live Site URL: [Cinema Site](https://im7.ezgif.com/tmp/ezgif-7-b639c1ef9977.gif)
 - Used Api For Movies : [Trivia API](https://opentdb.com/api_config.php)
 
 ## Development server
