@@ -9,9 +9,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Development server](#Development-server)
+- [Code scaffolding](#Code-scaffolding)
+- [Built](#built)
 - [Built with](#built-with)
-- [Built with](#built-with)
-- [Built with](#built-with)
+- [Further help](#Further-help)
 - [Author](#author)
 ## Overview
 
